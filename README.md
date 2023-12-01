@@ -2,4 +2,4 @@
 
 [Advent Site](https://adventofcode.com/)
 
-- [x] Day One
+- [x] Day One C++
