@@ -3,3 +3,5 @@
 [Advent Site](https://adventofcode.com/)
 
 - [x] Day One C++
+- [x] Day Two C#
+- [x] Day Three Java
