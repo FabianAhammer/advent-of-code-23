@@ -5,3 +5,4 @@
 - [x] Day One C++
 - [x] Day Two C#
 - [x] Day Three Java
+- [x] Day Four JS
